@@ -1,0 +1,42 @@
+unit Contacts;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, ShellApi;
+
+type
+  TCont = class(TForm)
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    procedure FormCreate(Sender: TObject);
+    procedure Label2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Cont: TCont;
+
+implementation
+
+{$R *.dfm}
+
+procedure TCont.FormCreate(Sender: TObject);
+begin
+  Label1.Caption := 'Программу выполнили студенты КузГТУ, группы ПИб-152: '
+                   + #13 + #13
+                   +'и ' + #13 + #13
+                   +'в рамках курсовой работы.';
+end;
+
+procedure TCont.Label2Click(Sender: TObject);
+begin
+  ShellExecute(application.Handle,'Open','https://vk.com/g_night',Nil,Nil,SW_SHOWDEFAULT);
+end;
+
+end.

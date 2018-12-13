@@ -1,0 +1,19 @@
+program APPostate;
+
+uses
+  Forms,
+  MainForm in 'MainForm.pas' {MainFrm},
+  Vcl.Themes,
+  Vcl.Styles,
+  Contacts in 'Contacts.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.Title := 'APPostate';
+  TStyleManager.TrySetStyle('Light');
+  Application.CreateForm(TMainFrm, MainFrm);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

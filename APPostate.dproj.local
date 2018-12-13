@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.387,=D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\ModelSupport_APPostate\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.107,D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\Contacts.dfm=D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,=D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\ModelSupport_APPostate\APPostate\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,=D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\ModelSupport_APPostate\MainForm\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.107,D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\Contacts.pas=D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\Новая папка\MainForm.dfm=D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\myedit.dproj=D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\Новая папка\APPostate.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.045,=D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\Новая папка\MainForm.pas=D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,=D:\ВУЗ\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Курсовая работа\APPostate\ModelSupport_APPostate\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>
